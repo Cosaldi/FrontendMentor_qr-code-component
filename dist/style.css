@@ -28,6 +28,7 @@ body {
   margin-bottom: 2rem;
   padding: 1rem;
   border-radius: 20px;
+  box-shadow: 0 1rem 1rem hsla(0, 0%, 0%, 0.05);
 }
 .card__image {
   width: 100%;
